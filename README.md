@@ -20,6 +20,10 @@ The ultimate OpenCore EFI for ThinkPad T470 running Ventura. Fixes the infamous 
 <img width="915" height="604" alt="image" src="https://github.com/user-attachments/assets/9525a15d-db71-46b5-a622-51b0efe225b5" />
 
 
+<img width="1107" height="521" alt="image" src="https://github.com/user-attachments/assets/3c8619e4-a9be-408a-aaad-183d74ef3e4b" />
+
+
+
 
 
 # T470-Ventura-EFI-WiFi-BT-VGA-Working
