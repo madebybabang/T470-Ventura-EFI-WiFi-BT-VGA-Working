@@ -1,3 +1,7 @@
+![macOS](https://img.shields.io/badge/macOS-Ventura%2013.7.8-blue)
+![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-green)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)
+
 # T470-Ventura-EFI-WiFi-BT-VGA-Working
 The ultimate OpenCore EFI for ThinkPad T470 running Ventura. Fixes the infamous NULL Bluetooth, VGA monitor detection, and Trackpad scroll issues.
 
